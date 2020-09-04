@@ -1,0 +1,410 @@
+.flex-container{
+			display: flex;
+			flex-direction: row;
+			background-color:white;
+		}
+		.logoimg img{
+			margin-top: 6%;
+			margin-left: 5%;
+			height:75px;
+			width:170px;
+		}
+		.button{
+			height: 30px;
+			width:100px;
+			background-color: white;
+			border: none;
+			margin: 15px;
+			font-size: 18px;
+			font-style: oblique;
+		}
+		.cc{
+			margin-left: 200px;
+			margin-top: 20px;
+		}
+		.dowbutton{
+			color: white;
+			height: 60px;
+			width:150px;
+			background-color: black;
+			border: none;
+			margin: 12px;
+			font-size: 20px;
+			font-style: oblique;
+			border-radius: 4px 10px;
+
+		}
+		.ee{
+			height: 700%;
+			width: 50%;
+			padding: 3%;
+
+		}
+		.gg{
+			font-family: "Poppins", sans-serif ;
+			color: #4b4343;
+			font-size: 22px;
+			width: 600px;
+		}
+		.hh{
+			height: 435px;
+			margin-left: 690px;
+			margin-top: -400px;
+			background-color: #f9c935;
+			border-radius: 48%;
+	
+		}
+		.hh img{
+			height: 370px;
+			width: 550px;
+		}
+		.buttonR{
+			height: 60px;
+			width:200px;
+			color: black;
+			background-color: #f9c935;
+			border-radius: 4px 10px;
+			border: none;
+			font-size: 20px;
+		}
+		.buttonD{
+			height: 60px;
+			width:200px;
+			color: white;
+			background-color: black;
+			border-radius: 4px 10px;
+			border: none;
+			font-size: 20px;
+			margin-left: 15px;
+		}
+		.kk{
+			height: 26px;
+			background-color:#201e1e;
+			padding-left:180px;
+			margin-top: 10px;
+			padding-top: 10px;
+		}
+		.aboutll{
+			font-style: oblique;
+			color: #f6ba00;
+		}
+		.aboutmm{
+			margin-left: 650px;
+		 	margin-top: -620px;
+		 }
+		.careermm{
+			margin-left: 650px;
+		 	margin-top: -520px;
+		}
+		.iframe{
+			width:550px ;
+			height:300px;
+		}
+		.careeriframe{
+			 width:595px;
+			  height:600px;
+		}
+		.careernn img{
+			height: 320px;
+			width: 580px;
+			border-radius: 20px 
+		}
+		.aboutoo img{ 
+			border-radius: 20px;
+			margin-top: 85px;
+
+		}
+		.aboutpp img{
+			height: 400px;
+			width: 300px;
+			margin-top: -200px;
+			margin-left: 295px;
+			border-radius: 20px;
+		}
+		.contactqq{
+			font-size: 25px;
+
+		}
+		.contactrr{
+			height: 40px;
+			width:400px;
+			margin-left: 40px;
+		}
+		.contactss{
+			height: 80px;
+			width: 400px;
+			margin-left: 40px;
+		}
+		.contacttt img{
+			border-radius:20px;
+			margin-top:200px;
+			height: 250px;
+			width: 500px;
+		}
+		.dowuu{
+			height: 700%;
+			width: 50%;
+			padding: 8%;
+
+		}
+		.dowvv{
+			margin-left: 750px;
+		 	margin-top: -430px;
+		}
+		.dowvv img{
+			margin-top: 35px;
+			height: 120px;
+			width:250px;
+
+		}
+		.dowxx{
+			height: 60px;
+			width:200px;
+			color: white;
+			background-color:black;
+			border-radius: 4px 10px;
+			border: none;
+			font-size: 20px;
+			margin-left: -180px;
+		}
+		.dowyy{
+			height: 60px;
+			width:200px;
+			color: black;
+			background-color: #f9c935;
+			border-radius: 4px 10px;
+			border: none;
+			font-size: 20px;
+			margin-left:60px;
+			margin-top: 30px;
+		}
+@media only screen and (min-width: 320px) and (max-width: 767px){
+	.flex-container{
+		flex-direction: row;
+	}
+	.logoimg img{
+			margin-top: 1%;
+			margin-left: 1%;
+			height:60px;
+			width:80px;
+		}
+	.button{
+			height: 15px;
+			width:70px;
+			background-color: white;
+			border: none;
+			margin-left: 5px;
+			font-size:14px;
+			font-style: oblique;
+		}
+		.cc{
+			margin-left: 10px;
+			margin-top: 15px;
+		}
+		.dowbutton{
+			color: white;
+			height: 20px;
+			width:135px;
+			background-color: black;
+			border: none;
+			margin: 6px;
+			font-size: 18px;
+			font-style: oblique;
+			border-radius: 2px 5px;
+		}
+		.ee{
+			height: 700%;
+			width: 50%;
+			padding:1%;
+		}
+		.gg{
+			font-family: "Poppins", sans-serif ;
+			color: #4b4343;
+			font-size: 17px;
+			width: 370px;
+		}
+		.hh{
+			height: 175px;
+			width:370px;
+			margin-left:10px;
+			margin-top:10px;
+			background-color: #f9c935;
+			border-radius: 45%;
+		}
+		.hh img{
+			height: 165px;
+			width: 330px;
+		}
+		.buttonR{
+			height: 30px;
+			width:150px;
+			color: black;
+			background-color: #f9c935;
+			border-radius: 3px 6px;
+			border: none;
+			font-size: 15px;
+		}
+		.buttonD{
+			height: 30px;
+			width:150px;
+			color: white;
+			background-color: black;
+			border-radius: 3px 6px;
+			border: none;
+			font-size: 15px;
+			margin-top:5px;
+		}
+		.kk{
+			height:35px;
+			width:400px;
+			background-color:#201e1e;
+			padding-left:2px;
+			margin-top:10px;
+			padding-top:2px;
+		}
+		.iframe{
+			width:380px ;
+			height:300px;
+		}
+		.aboutmm{
+			margin-left: 5px;
+		 	margin-top:10px;
+		}
+		.aboutoo img{ 
+			border-radius: 20px;
+			margin-top:35px;
+			width: 170px;
+
+		}
+		.aboutpp img{
+			height:250px;
+			width: 190px;
+			margin-top: -200px;
+			margin-left:185px;
+			border-radius: 20px;
+		}
+		.careermm{
+			margin-left:5px;
+		 	margin-top:10px;
+		 }
+		 .careeriframe{
+			 width:380px;
+			 height:500px;
+		}
+		.careernn img{
+			height: 280px;
+			width: 370px;
+			border-radius: 20px;
+		}
+		.contactrr{
+			height: 30px;
+			width:360px;
+			margin-left:20px;
+		}
+		.contactss{
+			width: 360px;
+			margin-left: 20px;
+		}
+		.contacttt img{
+			margin-top:10px;
+			height: 250px;
+			width: 370px;
+		}
+		.dowuu{
+			height: 100%;
+			width: 50%;
+			padding: 1%;
+			margin-left: 35px;
+		}
+		.dowvv{
+			margin-left:5px;
+		 	margin-top:10px;
+		}
+		.dowxx{
+			margin-left:50px;
+		}
+
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+	.flex-container{
+			flex-direction:row;
+		}
+		.logoimg img{
+			margin-top: 6%;
+			margin-left: 5%;
+			height:75px;
+			width:200px;
+		}
+		.button{
+			height: 30px;
+			width:100px;
+			margin: 5px;
+			font-size: 15px;
+		}
+		.hh{
+			height: 440px;
+			width:700px;
+			margin-left: 20px;
+			margin-top: 20px;
+			background-color: #f9c935;
+			border-radius: 48%;
+		}
+		.buttonD{
+			margin-top: 25px;
+		}
+		.kk{
+			height: 35px;
+			width:710px;
+			background-color:#201e1e;
+			padding-left:35px;
+			margin-top: 5px;
+			padding-top: 5px;
+		}
+		.aboutmm{
+			margin-left: 15px;
+		 	margin-top: 5px;
+		 }
+		 .aboutpp img{
+			width: 420px;
+		}
+		.iframe{
+			width:700px ;
+			height:400px;
+		}
+		.careerif{
+			 width:720px;
+			 height:600px;
+		}
+		.careermm{
+			margin-left:5px;
+		 	margin-top:10px;
+		 }
+		 .careernn img{
+		 	width: 650px;
+		 }
+		 .contactrr{
+			height: 40px;
+			width:500px;
+		}
+		.contactss{
+			width: 500px;
+		}
+		.contacttt img{
+			border-radius:20px;
+			margin-top:20px;
+			margin-left: 30px;
+			height: 270px;
+			width: 650px;
+		}
+		.dowvv{
+			margin-left: 200px;
+		 	margin-top: 30px;
+		}
+		.dowuu{
+			margin-left: 170px;
+		}
+			
+			
+}
+
+		
